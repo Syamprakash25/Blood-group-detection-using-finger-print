@@ -1,0 +1,13 @@
+node_modules/
+.vscode/
+__pycache__/
+bgenv/
+model.h5
+model/model.h5
+venv/
+dataset/
+notebook/
+model/
+report/
+static/
+dist/
