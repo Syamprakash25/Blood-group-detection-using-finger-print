@@ -82,7 +82,7 @@ This project introduces a **non-invasive** approach to blood group prediction us
 
 ## 📞 Contact
 ### 👤 **Syam Prakash**
-📧 [nanikarthik141149@gmail.com](mailto:syamprakash2525@gmail.com)  
+📧 [syamprakash2525@gmail.com](mailto:syamprakash2525@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/syam-prakash-cheerla-019233259/)
 
 
